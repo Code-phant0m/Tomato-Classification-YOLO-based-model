@@ -45,14 +45,8 @@ This system can be integrated with mechanical sorters (e.g., robotic arms, air j
 
 This diagram shows the high-level workflow of the project, from data collection to final deployment on the sorting line.
 
-![Project Flowchart](assets/flowchart.png)
-
-> **Note:** To generate this image, you can use a tool like **Mermaid.js** (as we discussed).
->
-> 1.  Create your flowchart in a tool like [Mermaid.live](https://mermaid.live).
-> 2.  Export the diagram as a PNG file.
-> 3.  Create a folder named `assets` in your GitHub repository.
-> 4.  Place the `flowchart.png` file inside the `assets` folder. The image will then show up here automatically.
+![Project Flowchart](<img width="1033" height="2426" alt="Untitled diagram-2025-11-17-065121" src="https://github.com/user-attachments/assets/cc90417a-49a8-4b88-894e-6a833b243c4a" />
+)
 
 ---
 
